@@ -1,0 +1,6 @@
+com\programming\techie\springredditclone\service\CommentServiceTest.class
+com\programming\techie\springredditclone\service\PostServiceTest.class
+com\programming\techie\springredditclone\BaseTest.class
+com\programming\techie\springredditclone\controller\PostControllerTest.class
+com\programming\techie\springredditclone\repository\UserRepositoryTest.class
+com\programming\techie\springredditclone\repository\PostRepositoryTest.class
